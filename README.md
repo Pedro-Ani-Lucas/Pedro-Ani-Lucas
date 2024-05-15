@@ -26,7 +26,7 @@
 </td>
 <td><a href="https://discordapp.com/users/262388933873238025" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.skoob.com.br/perfil/" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.skoob.com.br/perfil/Pedro4301" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
 <td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
