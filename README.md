@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/github-header-image.png?raw=true"/>
 </div>
 
 -----
