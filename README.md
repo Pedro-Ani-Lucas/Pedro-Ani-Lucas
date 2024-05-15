@@ -12,24 +12,24 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Pedro-Ani-Lucas" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Pedro-Ani-Lucas" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/github4.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
-<td><a href="mailto:aniwoucontato@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:aniwoucontato@gmail.com" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531995990661" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531995990661" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/pedro_lucas_ani/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/pedro_lucas_ani/" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/pedro-lucas-pereira-3507042a2/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-</td>
-<td><a href="https://discordapp.com/users/262388933873238025" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.skoob.com.br/perfil/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/pedro-lucas-pereira-3507042a2/" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/262388933873238025" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.skoob.com.br/perfil/" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</td>
+<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
