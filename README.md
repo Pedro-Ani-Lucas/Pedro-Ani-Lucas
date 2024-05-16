@@ -62,8 +62,7 @@
 - :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
 - :briefcase: &nbsp; Tenho como objetivo de carreira, atuar como <code>Tech Leader</code> na profissão de <code>Arquiteto de Software</code>.<br />
 - :trophy: &nbsp; Fui o estudante destaque nos anos de 2022 e 2023<br /> da <a href="https://www.cemarescola.com.br" target="_blank">Escola CEMAR</a>.<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
-- :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
+- :memo: &nbsp; Sou um amante de poesia e, consequentemente, sou poeta.<br />Aqui está meu perfil que posto poemas: <a href="https://www.instagram.com/aarpheus/" target="_blank">Aarpheus</a>.<br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 - :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
