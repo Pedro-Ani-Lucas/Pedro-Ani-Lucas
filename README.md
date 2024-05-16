@@ -29,7 +29,6 @@
 <td><a href="https://www.skoob.com.br/perfil/Pedro4301" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
