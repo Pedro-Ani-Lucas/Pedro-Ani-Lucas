@@ -62,13 +62,12 @@
 - :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
 - :briefcase: &nbsp; Tenho como objetivo de carreira, atuar como <code>Tech Leader</code> na profissão de <code>Arquiteto de Software</code>.<br />
 - :trophy: &nbsp; Fui o estudante destaque nos anos de 2022 e 2023<br /> da <a href="https://www.cemarescola.com.br" target="_blank">Escola CEMAR</a>.<br />
-- :memo: &nbsp; Sou um amante de poesia e, consequentemente, sou poeta.<br />Aqui está meu perfil que posto poemas: <a href="https://www.instagram.com/aarpheus/" target="_blank">Aarpheus</a>.<br />
-- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+- :memo: &nbsp; Sou um amante de poesia! Consequentemente, sou um poeta em horas vagas.<br />Aqui está meu perfil que posto poemas: <a href="https://www.instagram.com/aarpheus/" target="_blank">Aarpheus</a>.<br />
+- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/PedroLucasAni" target="_blank">aqui</a>.<br />
+- :soccer: &nbsp; Sou cruzeirense(Cabuloso) e amante de basquete ⛹️‍♂️.<br />
+- :basketball: &nbsp; Meus hobbies são jogos eletrônicos, esportes e filosofar.☕<br />
+- :speech_balloon: &nbsp; Sou uma pessoa que ama falar! Pergunte-me sobre qualquer coisa, adoro ajudar pessoas e ser ensinado.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:aniwoucontato@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
