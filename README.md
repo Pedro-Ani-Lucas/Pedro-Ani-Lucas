@@ -74,7 +74,7 @@
  
  </div>
         <div id="learning" style="margin-bottom: 15px;">
-            <h2>🌱 Eu estou atualmente aprendendo </h2>
+            <h1>🌱 Eu estou atualmente aprendendo </h1>
             <p>
                 <img align="center" width="100px"
                     src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/java.png" />
