@@ -71,7 +71,17 @@
 </div>
 
 -----
+ 
+ </div>
+        <div id="learning" style="margin-bottom: 15px;">
+            <h2>🌱 Eu estou atualmente aprendendo </h2>
+            <p>
+                <img align="center" width="50px"
+                    src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/java.png" />
+            </p>
+        </div>
 
+-----
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
