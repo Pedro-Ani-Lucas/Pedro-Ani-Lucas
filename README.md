@@ -53,7 +53,7 @@
 <img align="right" alt="GIF" src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/dev.gif?raw=true" width="320px" height="520px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/><b>Meus interesses pessoais:</b>
 
 <div align="justify">
 <p> 
@@ -82,7 +82,7 @@
         </div>
 
 -----
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/><b>GitHub Stats:</b>
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Ani-Lucas&theme=github_dark"/>
@@ -96,7 +96,7 @@
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aniwou's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/><b>Aniwou's Spotify Data</b></summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=yr1ag4o202hycq90jcswbew5n" alt="Data Card for Spotify">
 </details>
 </div>
