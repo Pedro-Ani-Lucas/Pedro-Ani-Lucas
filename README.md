@@ -63,6 +63,7 @@
 - :memo: &nbsp; Sou um amante de poesia! Consequentemente, sou um poeta em horas vagas.<br />Aqui está meu perfil que posto poemas: <a href="https://www.instagram.com/aarpheus/" target="_blank">Aarpheus</a>.<br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/PedroLucasAni" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou cruzeirense(Cabuloso) e amante de basquete ⛹️‍♂️.<br />
+- ✈️ &nbsp; Amo viajar e conhecer novas culturas.<br/>
 - :basketball: &nbsp; Meus hobbies são jogos eletrônicos, esportes, escutar música e filosofar.☕<br />
 - :speech_balloon: &nbsp; Sou uma pessoa que ama falar! Pergunte-me sobre qualquer coisa, adoro ajudar pessoas e ser ensinado.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:aniwoucontato@gmail.com" target="_blank">e-mail</a> pessoal.<br />
