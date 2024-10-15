@@ -56,7 +56,7 @@
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Ciência da Computação, cursando o primeiro período.<br/>
+- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Ciência da Computação, cursando o segundo período.<br/>
 - :mortar_board: &nbsp;No SENAI, fiz curso de Aprendizagem Industrial de <code>Processos Administrativos</code> <br/>em 2023.<br/>
 - :briefcase: &nbsp; Tenho como objetivo de carreira, atuar como <code>Tech Leader</code> na profissão de <code>Arquiteto de Software</code>.<br />
 - :trophy: &nbsp; Fui o estudante destaque nos anos de 2022 e 2023<br /> da <a href="https://www.cemarescola.com.br" target="_blank">Escola CEMAR</a>.<br />
