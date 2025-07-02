@@ -41,7 +41,7 @@
 
 -----
  
- <i><b>Olá</b> :wave:, sou o <code>Pedro Lucas</code>, tenho 18 anos, moro em BH e sou estudante de programação desde os 17 anos de idade. Atualmente sou <code>estudante</code> no curso de Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.</i> :man_teacher:<br />
+ <i><b>Olá</b> :wave:, sou o <code>Pedro Lucas</code>, tenho 19 anos, moro em BH e sou estudante de programação desde os 17 anos de idade. Atualmente sou <code>estudante</code> no curso de Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.</i> :man_teacher:<br />
 </div>
 
 
@@ -56,7 +56,7 @@
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Ciência da Computação, cursando o segundo período.<br/>
+- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Ciência da Computação, cursando o terceiro período.<br/>
 - :mortar_board: &nbsp;No SENAI, fiz curso de Aprendizagem Industrial de <code>Processos Administrativos</code> <br/>em 2023.<br/>
 - :briefcase: &nbsp; Tenho como objetivo de carreira, atuar como <code>Tech Leader</code> na profissão de <code>Arquiteto de Software</code>.<br />
 - :trophy: &nbsp; Fui o estudante destaque nos anos de 2022 e 2023<br /> da <a href="https://www.cemarescola.com.br" target="_blank">Escola CEMAR</a>.<br />
@@ -65,7 +65,7 @@
 - :soccer: &nbsp; Sou cruzeirense(Cabuloso) e amante de basquete ⛹️‍♂️.<br />
 - ✈️ &nbsp; Amo viajar e conhecer novas culturas.<br/>
 - :basketball: &nbsp; Meus hobbies são jogos eletrônicos, esportes, escutar música e filosofar.☕<br />
-- :speech_balloon: &nbsp; Sou uma pessoa que ama falar! Pergunte-me sobre qualquer coisa, adoro ajudar pessoas e ser ensinado.<br />
+- :speech_balloon: &nbsp; Sou uma pessoa que gosta de conversa, adoro ajudar pessoas e ser ensinado.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:aniwoucontato@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
 </div>
