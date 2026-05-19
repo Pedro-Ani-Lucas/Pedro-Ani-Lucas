@@ -58,7 +58,7 @@
 <p> 
 - :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> de Ciência da Computação, cursando o quinto período.<br/>
 - :mortar_board: &nbsp;No SENAI, fiz curso de Aprendizagem Industrial de <code>Processos Administrativos</code> <br/>em 2023.<br/>
-- :briefcase: &nbsp; Tenho como objetivo de carreira, atuar como <code>Tech Leader</code> na profissão de <code>Arquiteto de Software</code>.<br />
+- :briefcase: &nbsp; Tenho como objetivo de carreira, atuar como <code>Cientista de Dados</code>.<br />
 - :trophy: &nbsp; Fui o estudante destaque nos anos de 2022 e 2023<br /> da <a href="https://www.cemarescola.com.br" target="_blank">Escola CEMAR</a>.<br />
 - :memo: &nbsp; Sou um amante de poesia! Consequentemente, sou um poeta em horas vagas.<br />Aqui está meu perfil que posto poemas: <a href="https://www.instagram.com/aarpheus/" target="_blank">Aarpheus</a>.<br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/PedroLucasAni" target="_blank">aqui</a>.<br />
