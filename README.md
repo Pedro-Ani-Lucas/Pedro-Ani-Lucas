@@ -48,9 +48,6 @@
 -----
 
 <div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/dev.gif?raw=true" width="320px" height="520px"/>
-</div>
 
 <img height="20" alt="GIF" src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/soulgem.gif?raw=true"/><b>Meus interesses pessoais:</b>
 
