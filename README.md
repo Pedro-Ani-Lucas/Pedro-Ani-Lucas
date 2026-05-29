@@ -70,13 +70,74 @@
 -----
  
  </div>
-        <div id="learning" style="margin-bottom: 15px;">
-            <p>🌱 <b>Eu estou atualmente aprendendo:</b> </p>
-            <p>
-                <img align="center" width="100px"
-                    src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/java.png" />
-            </p>
-        </div>
+</div>
+
+<div id="learning" style="margin-bottom: 20px;">
+
+    <!-- Linguagens -->
+    <h3>💻 Linguagens</h3>
+    <p align="left">
+        <img align="center" width="55px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+        <img align="center" width="55px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+        <img align="center" width="55px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+    </p>
+
+    <!-- Data Science e IA -->
+    <h3>🧠 Data Science & IA</h3>
+    <p align="left">
+
+        <!-- Machine Learning -->
+        <img align="center" width="55px"
+            src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
+
+        <!-- Scikit Learn -->
+        <img align="center" width="55px"
+            src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+
+        <!-- Pandas -->
+        <img align="center" width="55px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+
+        <!-- Matplotlib -->
+        <img align="center" width="55px"
+            src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+
+    </p>
+
+    <!-- Backend -->
+    <h3>⚙️ Backend & Build Tools</h3>
+    <p align="left">
+
+        <!-- Maven -->
+        <img align="center" width="55px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
+
+        <!-- Apache Kafka -->
+        <img align="center" width="55px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+
+        <!-- PostgreSQL -->
+        <img align="center" width="55px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+    </p>
+
+    <!-- DevOps -->
+    <h3>🐳 DevOps & Infra</h3>
+    <p align="left">
+
+        <!-- Docker -->
+        <img align="center" width="55px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+    </p>
+
+</div>
 
 -----
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/><b>GitHub Stats:</b>
