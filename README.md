@@ -15,7 +15,7 @@
 <td><a href="https://github.com/Pedro-Ani-Lucas" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/github4.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
-<td><a href="mailto:aniwoucontato@gmail.com" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:plucascontato22@gmail.com" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531995990661" target="_blank"><img src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
