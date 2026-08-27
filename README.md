@@ -138,7 +138,9 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/Pedro-Ani-Lucas/Pedro-Ani-Lucas/blob/main/img/spotify.gif?raw=true"/><b>Aniwou's Spotify Data</b></summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=yr1ag4o202hycq90jcswbew5n" alt="Data Card for Spotify">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=yr1ag4o202hycq90jcswbew5n">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=yr1ag4o202hycq90jcswbew5n" alt="Data Card for Spotify">
+</a>
 </details>
 </div>
 <div>
