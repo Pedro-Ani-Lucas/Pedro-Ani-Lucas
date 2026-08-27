@@ -142,7 +142,7 @@
 </details>
 </div>
 <div>
- <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=yr1ag4o202hycq90jcswbew5n&count=10"/>
+ <img alt="Spotify list" width="200px" height="270px" src="[https://spotify-recently-played-readme.vercel.app/api?user=yr1ag4o202hycq90jcswbew5n&count=10](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=yr1ag4o202hycq90jcswbew5n)"/>
 </div>
 
 </div>
